@@ -350,6 +350,8 @@ header .form i {
 .services .service-box i {
     margin-right: 50px;
     font-size: 48px;
+    color: var(--main-color);
+}
 }
 @media (max-width: 767px) {
     .services .service-box {
