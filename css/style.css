@@ -355,6 +355,7 @@ header .form i {
 }
 @media (max-width: 767px) {
     .services .service-box {
+        display: flex;
         flex-direction: column;
         text-align: center;
         margin-bottom: 40px;
